@@ -3,6 +3,9 @@
 ## **Overview**  
 This project focuses on **Twitter data analysis** using **Power BI**, providing insights into tweet engagement, user interactions, and content performance. The dashboard includes seven key visualizations that help analyze clicks, media engagement, tweet categories, and performance trends.  
 
+## **Complete Twitter Dashboard Overview**  
+![Twitter Dashboard](Tasks Dashboard.png)  
+
 ## **Features & Tasks**  
 
 ### **1. Pie Chart - Click Proportion Analysis**  
@@ -67,71 +70,3 @@ This project focuses on **Twitter data analysis** using **Power BI**, providing 
   - **Character count < 30**.  
   - **Removes words containing 'D'**.  
 
----
-
-## **Installation & Setup**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/twitter-dashboard-powerbi.git
-   cd twitter-dashboard-powerbi
-   ```  
-2. Open **Power BI Desktop**.  
-3. Load the **Tweet (1).xlsx** dataset.  
-4. Apply **DAX calculations and filters** as described in each task.  
-5. Publish and share the dashboard.  
-
----
-
-## **Dashboard Screenshots**  
-### **1. Pie Chart - Click Proportion Analysis**  
-![Pie Chart](dashboard_screenshots/pie_chart.png)  
-
-### **2. Clustered Bar Chart - Clicks by Tweet Category**  
-![Bar Chart](dashboard_screenshots/bar_chart.png)  
-
-### **3. Scatter Chart - Media Engagement vs. Views**  
-![Scatter Chart](dashboard_screenshots/scatter_chart.png)  
-
-### **4. Top 10 Tweets by Retweets & Likes**  
-![Top 10 Tweets](dashboard_screenshots/top_10_tweets.png)  
-
-### **5. Line Chart - Engagement Rate Trend**  
-![Line Chart](dashboard_screenshots/line_chart.png)  
-
-### **6. Dual-Axis Chart - Media Views & Engagements**  
-![Dual-Axis Chart](dashboard_screenshots/dual_axis_chart.png)  
-
-### **7. Engagement Rate Comparison - App Opens vs. No App Opens**  
-![App Opens Chart](dashboard_screenshots/app_opens_chart.png)  
-
----
-
-## **Contributing**  
-1. Fork the repository.  
-2. Create a new branch:  
-   ```bash
-   git checkout -b feature-branch
-   ```  
-3. Make changes and commit:  
-   ```bash
-   git commit -m "Added new visualization"
-   ```  
-4. Push changes:  
-   ```bash
-   git push origin feature-branch
-   ```  
-5. Create a **Pull Request** for review.  
-
----
-
-## **License**  
-This project is licensed under the **MIT License**.  
-
----
-
-## **Contact**  
-For questions or collaborations, reach out via **[your email or GitHub profile]**.  
-
----
-
-Would you like any modifications or additional details for the README?
