@@ -4,7 +4,7 @@
 This project focuses on **Twitter data analysis** using **Power BI**, providing insights into tweet engagement, user interactions, and content performance. The dashboard includes seven key visualizations that help analyze clicks, media engagement, tweet categories, and performance trends.  
 
 ## **Complete Twitter Dashboard Overview**  
-![Twitter Dashboard](Tasks Dashboard.png)  
+![Twitter Dashboard](TasksDashboard.png)  
 
 ## **Features & Tasks**  
 
